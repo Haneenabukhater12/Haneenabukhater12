@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Haneenabukhater12/Haneenabukhater12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm *Haneen Mohamed* – a Biomedical Engineering student at Cairo University with a passion for *Web Development, AI, ML, and Data Science*.  
 
-Here are some ideas to get you started:
+I enjoy *problem solving* and building *interactive, data-driven applications* that combine *software skills* to tackle real-world challenges in *healthcare, education, and smart technologies*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+*Programming Languages:* Python, Java, C++  
+*Web Development:* Node.js, Django, HTML/CSS  
+*Databases:* MongoDB, PostgreSQL  
+*AI & ML:* Deep Learning, Machine Learning, Data Analysis, PDE-based Modeling  
+*Tools & Frameworks:* JavaFX, Processing, Simscape, Git/GitHub  
+
+---
+
+## 🌱 Currently Learning
+
+- *Deep Learning & Data Analysis*  
+- *React.js & Advanced Frontend Development*  
+- *AI & ML integration in Web Applications*
