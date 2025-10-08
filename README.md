@@ -11,13 +11,13 @@ I enjoy *problem solving* and building *interactive, data-driven applications* t
 *Programming Languages:* Python, Java, C++  
 *Web Development:* Node.js, Django, HTML/CSS  
 *Databases:* MongoDB, PostgreSQL  
-*AI & ML:* Deep Learning, Machine Learning, Data Analysis, PDE-based Modeling  
-*Tools & Frameworks:* JavaFX, Processing, Simscape, Git/GitHub  
+*AI & ML: Machine Learning, Data Analysis
+
 
 ---
 
 ## 🌱 Currently Learning
 
-- *Deep Learning & Data Analysis*  
+- *Deep Learning & Data engineering
 - *React.js & Advanced Frontend Development*  
 - *AI & ML integration in Web Applications*
