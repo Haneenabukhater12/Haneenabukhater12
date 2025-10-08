@@ -18,6 +18,6 @@ I enjoy *problem solving* and building *interactive, data-driven applications* t
 
 ## 🌱 Currently Learning
 
-- *Deep Learning & Data engineering
+- *Deep Learning & Data engineering& Computer vision*
 - *React.js & Advanced Frontend Development*  
 - *AI & ML integration in Web Applications*
