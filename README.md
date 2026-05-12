@@ -14,10 +14,3 @@ I enjoy *problem solving* and building *interactive, data-driven applications* t
 *AI & ML: Machine Learning, Data Analysis
 
 
----
-
-## 🌱 Currently Learning
-
-- *Deep Learning & Data engineering& Computer vision*
-- *React.js & Advanced Frontend Development*  
-- *AI & ML integration in Web Applications*
